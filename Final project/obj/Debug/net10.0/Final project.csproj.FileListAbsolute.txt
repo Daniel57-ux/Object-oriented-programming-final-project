@@ -1,0 +1,14 @@
+C:\Users\davis\OneDrive\Desktop\SODV1202\Final project\bin\Debug\net10.0\Final project.exe
+C:\Users\davis\OneDrive\Desktop\SODV1202\Final project\bin\Debug\net10.0\Final project.deps.json
+C:\Users\davis\OneDrive\Desktop\SODV1202\Final project\bin\Debug\net10.0\Final project.runtimeconfig.json
+C:\Users\davis\OneDrive\Desktop\SODV1202\Final project\bin\Debug\net10.0\Final project.dll
+C:\Users\davis\OneDrive\Desktop\SODV1202\Final project\bin\Debug\net10.0\Final project.pdb
+C:\Users\davis\OneDrive\Desktop\SODV1202\Final project\obj\Debug\net10.0\Final project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davis\OneDrive\Desktop\SODV1202\Final project\obj\Debug\net10.0\Final project.AssemblyInfoInputs.cache
+C:\Users\davis\OneDrive\Desktop\SODV1202\Final project\obj\Debug\net10.0\Final project.AssemblyInfo.cs
+C:\Users\davis\OneDrive\Desktop\SODV1202\Final project\obj\Debug\net10.0\Final project.csproj.CoreCompileInputs.cache
+C:\Users\davis\OneDrive\Desktop\SODV1202\Final project\obj\Debug\net10.0\Final project.dll
+C:\Users\davis\OneDrive\Desktop\SODV1202\Final project\obj\Debug\net10.0\refint\Final project.dll
+C:\Users\davis\OneDrive\Desktop\SODV1202\Final project\obj\Debug\net10.0\Final project.pdb
+C:\Users\davis\OneDrive\Desktop\SODV1202\Final project\obj\Debug\net10.0\Final project.genruntimeconfig.cache
+C:\Users\davis\OneDrive\Desktop\SODV1202\Final project\obj\Debug\net10.0\ref\Final project.dll
