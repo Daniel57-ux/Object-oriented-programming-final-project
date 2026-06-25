@@ -95,7 +95,7 @@ namespace ConnectFour
                 playAgain = view.PlayAgain();
             }
 
-            Console.WriteLine("Thanks for playing!");
+            Console.WriteLine("Thanks for playing! And happy Holidays!");
             Console.ReadKey();
         }
 
